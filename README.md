@@ -1,7 +1,5 @@
 # TripleTen_Projects
 Projects I worked on while attending the Business Analytics TripleTen Bootcamp.
-
-
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Advanced Spreadsheets| The project task was to  |
