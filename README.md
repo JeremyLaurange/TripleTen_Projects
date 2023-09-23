@@ -6,3 +6,4 @@ Projects I worked on while attending the Business Analytics TripleTen Bootcamp.
 | 2 | Business Analytics | The project task was to  |
 | 3 | Tableau | The project task was to  |
 | 4 | Power BI | The project task was to  |
+| 5 | Tripleten Final Project | The project task was to  |
